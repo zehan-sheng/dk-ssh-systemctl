@@ -1,6 +1,6 @@
 FROM debian
 
-LABEL maintainer="Robert de Bock <robert@meinit.nl>"
+LABEL maintainer="Debian-sshwithsystemctl"
 LABEL build_date="2023-09-01"
 
 ENV container docker
